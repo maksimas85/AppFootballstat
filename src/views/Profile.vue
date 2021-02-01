@@ -1,11 +1,15 @@
 <template>
-  <div class="home">
+  <div>
+    <h1>PROFILE</h1>
   </div>
 </template>
 
 <script>
 export default {
-  components: {
-  }
+name: "Profile"
 }
 </script>
+
+<style scoped>
+
+</style>
